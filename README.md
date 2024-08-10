@@ -1,7 +1,7 @@
-- 👋 Hi, We are @websnabb
-- 👀 We're interested in website development for small and medium size businesses
-- 🌱 We're currently learning better ways to create websites with Webflow or other JAMstack tools.
-- 💞️ We're looking to collaborate on building awesome websites
+- 👋 Hi, We are @websnabb. 
+- 👀 We're a website development agency for small size businesses in Europe 
+- 🌱 Currently finding ways to create websites with JAMstack tools or other tools efficiently.
+- 💞️ We're looking to collaborate with small cafes, restaurants or family businesses who wanted to have their own website.
 - 📫 You can reach us via email
 - ⚡ Fun fact: This idea is from DesignJoy.
 
