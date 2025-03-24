@@ -1,7 +1,6 @@
 - 👋 Hi, We are @websnabb. 
-- 👀 We're a website development agency for small size businesses in Europe 
-- 🌱 Currently finding ways to create websites with JAMstack tools or other tools efficiently.
-- 💞️ We're looking to collaborate with small cafes, restaurants or family businesses who wanted to have their own website.
+- 👀 We're a subscription-based web agency that help in hosting, creating and maintaining websites for businesses.
+- 🌱 Currently finding ways to create websites with JAMstack tools or other tools efficiently instead of WordPress.
 - 📫 You can reach us via email
 - ⚡ Fun fact: This idea is from DesignJoy.
 
