@@ -2,7 +2,7 @@
 - 👀 We're a subscription-based web agency that help in hosting, creating and maintaining websites for businesses.
 - 🌱 Currently finding ways to create websites with JAMstack tools or other tools efficiently instead of WordPress.
 - 📫 You can reach us via email
-- ⚡ Fun fact: This idea is from DesignJoy.
+- ⚡ Fun fact: We saw a common problem around Mariehamn, Åland Islands.
 
 <!---
 websnabb/websnabb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
