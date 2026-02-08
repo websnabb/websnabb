@@ -1,6 +1,6 @@
 # WebSnabb
 
-##👋 Welcome
+## 👋 Welcome
 Hello, welcome to @websnabb. 
 
 ## What
@@ -12,7 +12,7 @@ Currently finding ways to create websites without using WordPress because most o
 ## 📫 Contact
 You can me via Ko-Fi or X
 
-##⚡Fun Fact
+## ⚡Fun Fact
 I used to be a Hip-Hop dancer and play competitive basketball.
 
 <!---
