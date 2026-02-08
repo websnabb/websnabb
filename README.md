@@ -1,8 +1,19 @@
-- 👋 Hi, We are @websnabb. 
-- 👀 We're a subscription-based web agency that help in hosting, creating and maintaining websites for businesses.
-- 🌱 Currently finding ways to create websites with JAMstack tools or other tools efficiently instead of WordPress.
-- 📫 You can reach us via email
-- ⚡ Fun fact: We saw a common problem around Mariehamn, Åland Islands.
+# WebSnabb
+
+##👋 Welcome
+Hello, welcome to @websnabb. 
+
+## What
+This is a side-hustle business about creating websites for small or medium-sized businesses like cafes and restaurants.
+
+## 🌱 Interests
+Currently finding ways to create websites without using WordPress because most of the designs are templates and basics.
+
+## 📫 Contact
+You can me via Ko-Fi or X
+
+##⚡Fun Fact
+I used to be a Hip-Hop dancer and play competitive basketball.
 
 <!---
 websnabb/websnabb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
