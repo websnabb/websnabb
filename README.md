@@ -10,7 +10,7 @@ This is a side-hustle business about creating websites for small or medium-sized
 Currently finding ways to create websites without using WordPress because most of the designs are templates and basics.
 
 ## 📫 Contact
-You can me via Ko-Fi or X
+You can reach me via Ko-Fi or X
 
 ## ⚡Fun Fact
 I used to be a Hip-Hop dancer and play competitive basketball.
